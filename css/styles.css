@@ -12,7 +12,7 @@ body {
     padding: 5px;
     color: white;
     margin: 5px 10px 5px 10px;
-    max-width: 200px;
+    max-width: 25%;
 }
 
 #container {
@@ -22,7 +22,7 @@ body {
     background-color: rgb(35, 169, 35);
     border-radius: 10px;
     margin: 5px 10px 5px 10px;
-    max-width: 200px;
+    max-width: 25%;
 }
 
 #article {
@@ -43,7 +43,7 @@ body {
     padding: 5px;
     color: white;
     margin: 5px 10px 5px 10px;
-    max-width: 200px;
+    max-width: 25%;
 }
 
 #footer {
@@ -54,5 +54,5 @@ body {
     padding: 5px;
     color: white;
     margin: 5px 10px 5px 10px;
-    max-width: 200px;
+    max-width: 25%;
 }
