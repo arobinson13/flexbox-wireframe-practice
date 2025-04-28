@@ -52,3 +52,21 @@ body {
     color: white;
     margin: 5px 10px 5px 10px;
 }
+
+@media (min-width: 769px) {
+    #desktop-container {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+    }
+
+    #aside {
+        flex-grow: 1;
+        text-align: center;
+        padding: 4rem;
+    }
+
+    #container {
+        flex-grow: 3;
+    }
+}
